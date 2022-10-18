@@ -1,3 +1,5 @@
+//Adafruit Fingerprint Senser -> enroll เพื่อบันทึกลายนิ้วมือ
+
 #include <Adafruit_Fingerprint.h>
 #include <SoftwareSerial.h>
 SoftwareSerial mySerial(2, 3);
